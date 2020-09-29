@@ -16,7 +16,7 @@ Accepts image-name pairs of people and finds and names them in other images. Als
 
 This program is part of the Image Captioning project with the intention to ultimately be merged into one.
 
-Made using face\_recognition (https://github.com/ageitgey/face\_recognition) library.
+Made using face_recognition (https://github.com/ageitgey/face_recognition) library.
 
 > A slide from face-rec-showcase.pdf, showing a profile picture that was passed with an ID, and that face afterwards found in another picture. For more examples like these see face-rec-showcase.pdf
 ![](face-rec-showcase.png)
